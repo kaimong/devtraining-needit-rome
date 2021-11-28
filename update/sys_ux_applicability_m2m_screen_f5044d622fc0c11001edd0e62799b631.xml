@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="NeedIt Admins">8f8305a22fc0c11001edd0e62799b65e</applicability>
+        <order>100</order>
+        <screen display_value="Home default">db9e8bc22f08411001edd0e62799b6c9</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>kai.mong</sys_created_by>
+        <sys_created_on>2021-11-28 19:05:06</sys_created_on>
+        <sys_id>f5044d622fc0c11001edd0e62799b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_f5044d622fc0c11001edd0e62799b631</sys_update_name>
+        <sys_updated_by>kai.mong</sys_updated_by>
+        <sys_updated_on>2021-11-28 19:05:06</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>
